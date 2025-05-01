@@ -31,25 +31,6 @@ st.markdown("""
         background-color: #ff7f7f;
         transform: scale(1.05);
     }
-    .nothing {
-        position: fixed;
-        bottom: 10px;
-        right: 10px;
-        cursor: pointer;
-        z-index: 100;
-    }
-    .nothing img {
-        width: 50px;
-        transition: transform 0.3s;
-    }
-    .nothing img:hover {
-        transform: rotate(20deg) scale(1.1);
-    }
-    </style>
-    <div class="nothing">
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-            <img src="https://img.pikbest.com/origin/09/24/02/75ZpIkbEsT86S.png!sw800" alt="Stickman Dance" title="Surprise!">
-        </a>
     </div>
 """, unsafe_allow_html=True)
 
