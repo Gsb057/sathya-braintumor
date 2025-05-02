@@ -22,7 +22,7 @@ README.md → This file
 
 config.toml → Theme settings for Streamlit UI
 
-data/
+data/ (see data set)
 
 images/ → Input MRI images (grayscale)
 
